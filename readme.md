@@ -6,7 +6,7 @@ Retrieve all comments from YouTube videos and perform **topic modeling** and **s
 ## Context 
 As a gaming enthusiast, I’m diving into **sentiment analysis** and **topic modeling** for the **Game of the Year (GOTY) 2023 Live event**. Let’s uncover the magic behind the nominees and celebrate gaming excellence!
 
-Please checkout the Game_of_the_Year_2023_Livestream_Analysis_Report.docx for the result.
+🔔 Please checkout the **Game_of_the_Year_2023_Livestream_Analysis_Report.pdf** for the result.
 
 <img src='Image\GOTY.jpg'>
 
